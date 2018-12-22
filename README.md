@@ -4,3 +4,6 @@
 
 ## 1. 시스템 구성도
 ![system](./doc/system.JPG)
+
+## 2. 실행 결과
+https://www.youtube.com/watch?v=meDVV7NJaFk
